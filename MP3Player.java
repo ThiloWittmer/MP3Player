@@ -29,4 +29,8 @@ public class MP3Player {
     public void volume(float value) {
         audioPlayer.setGain(value);
     }
+
+    public void name() {
+        //jhfbjhd
+    }
 }
